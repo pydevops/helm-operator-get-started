@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: gcr.io/magicseed/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-xtxfg76o
     replicaCount: 2
     hpa:
       enabled: true
